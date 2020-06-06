@@ -1,7 +1,7 @@
 # tc-bot
 The crims bot.
 
-One night project run.
+One night project run. python + selenium + chromedriver
 
 Steps:
 
